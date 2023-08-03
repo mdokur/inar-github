@@ -1,0 +1,3 @@
+bu bir deneme dosyadı olarak oluşturuldu 
+amacı bakalım git hub a doğru şekilde atayabilecek miyim 
+asıl soru github a attıklarımı diğerleri nasıl görecek 
